@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Copyright (c) 2013 Samuel Todosiciuc.
+ * Copyright (c) 2014 Samuel Todosiciuc.
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
