@@ -7,7 +7,5 @@ You don't need any api key to use this Service.
 <pre>
   $insta = new Instagram();
   $info = $insta->get('maribolro');
-  echo '<pre>';
   print_r($info);
-  echo '<pre>';
 </pre>
